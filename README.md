@@ -1,3 +1,1 @@
-## Next.js, Auth.js Authentication
-
-https://authjs-next.vercel.app
+## Next.js, Clerk Authentication and User Management
