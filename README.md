@@ -1,3 +1,3 @@
 ## Next.js, Clerk Authentication and User Management
 
-https://clerk-nextjs.vercel.app
+https://clerk-auth-next.vercel.app
